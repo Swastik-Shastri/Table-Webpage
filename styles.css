@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+  background-color: green;
+  opacity: 0.3;
+  font-family: Roboto;
+  font-size: 50px;
+  color: White;
+}
+#data_table{
+  margin-top: 400px
+}
+#hehes{
+  position: fixed;
+  left: 50%;
+  padding-top: 50px;
+}
+#my-chart.column {
+  height: 200px;
+  max-width: 300px;
+  margin: 0 auto;
+}
